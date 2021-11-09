@@ -2,7 +2,7 @@
 
 
 html{
-    background-color: rgb(243, 243, 237);
+    background-color: rgb(255, 250, 255);
 }
 
 #search{
@@ -10,9 +10,9 @@ html{
     margin:  40px auto;
     padding: 15px;
     background-color: white;
-    width: 40%;
-    border-radius: 7px;
-    border-color: rgb(255, 255, 255);
+    width: 60%;
+    border-radius: 5px;
+    border: 2px solid rgb(230, 230, 230);
 }
 
 ul {
